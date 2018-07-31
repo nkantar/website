@@ -45,7 +45,7 @@ We anticipate more than 300 attendees at our 2018 conference. In 2017, we had 23
 
 30% of attendees were women or non-binary.
 
-Our attendees range in experience from students and new graduates, through to career professionals with more than 30 years in the industry. Our professional attendees work in many roles, including software engineers, CTO-level executives, DevOps engineers, data scientists, front-end engineers, and mobile developers.
+Our attendees range in experience from students and new graduates to career professionals with more than 30 years in the industry. Our professional attendees work in many roles, including software engineers, CTO-level executives, DevOps engineers, data scientists, front-end engineers, and mobile developers.
 
 48% of our attendees had never attended a Python-focused conference before North Bay Python. 15% of our attendees made North Bay Python their first tech conference.
 
